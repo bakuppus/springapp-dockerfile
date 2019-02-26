@@ -1,4 +1,4 @@
-FROM https://842782393707.dkr.ecr.us-east-2.amazonaws.com/springapp:latest
+FROM 842782393707.dkr.ecr.us-east-2.amazonaws.com/springapp:latest
 
 WORKDIR /opt/
 
